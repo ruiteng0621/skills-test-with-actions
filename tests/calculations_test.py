@@ -2,6 +2,8 @@
 import sys
 import os
 import pytest
+import pytest
+import math  # 新增 math 模組的匯入
 
 # Installed Modules
 # None
